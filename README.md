@@ -1,2 +1,2 @@
 # leetcode-algorithm
-L
+Leetcode Solution
