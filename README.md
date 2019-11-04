@@ -1,2 +1,2 @@
 # leetcode-algorithm
-Leetcode Solution
+Play leetcode with C++ programming language
